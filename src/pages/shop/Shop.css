@@ -1,0 +1,9 @@
+.products{
+    border: 1px solid rebeccapurple;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    /* margin: 0 auto; */
+    
+}

@@ -1,0 +1,26 @@
+.productCard {
+  border: 1px solid red;
+  width: 20%;
+  margin: 1rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 0.4rem;
+  background-color: rgba(255, 255, 255, 0.15);
+}
+.productImage {
+  border: 1px solid red;
+  border-radius: 0.3rem;
+  background-color: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(5px);
+}
+img {
+  height: 15rem;
+}
+
+.productDescription{
+    border: 1px solid red;
+    width: 70%;
+    margin: 0.5rem;
+    border-radius: 0.4rem;
+}

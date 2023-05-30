@@ -1,0 +1,21 @@
+.navbar{
+    /* border: 1px solid red; */
+    padding: 1rem;
+    background-color: blanchedalmond;
+    border-radius: 0.4rem;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.links, a{
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: black;
+    font-family: sans-serif;
+}
